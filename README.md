@@ -6,13 +6,45 @@ For support, please email: [inquiries.strix@gmail.com](mailto:inquiries.strix@gm
 
 ## Privacy Policy
 
-QuoteE is committed to protecting your privacy. We collect and use your information only as described in our [Privacy Policy](link-to-full-privacy-policy).
+**Last updated:** July 2025
 
-**Summary:**
-- We collect only the information necessary to provide our quoting services.
-- Your data is never sold or shared with third parties.
-- You can request deletion of your data at any time.
+QuoteE ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our quoting application.
 
-For the full privacy policy, [click here](link-to-full-privacy-policy).
+## Information We Collect
+- Name and contact information (if you provide it)
+- Business and customer data you input into quotes
+- Usage statistics (to improve the app)
+- Device and browser information
+
+## How We Use Your Information
+- To provide and maintain the QuoteE service
+- To process quotes and estimates
+- To improve app functionality and user experience
+- To provide customer support
+- To comply with legal obligations
+
+## Data Storage and Security
+- Your data is stored securely using trusted third-party services
+- We use industry-standard security measures
+- Data is encrypted in transit and at rest
+
+## Third-Party Services
+- We use services such as Supabase, Google Maps, Resend, and Twilio to provide features in the app. Each service has its own privacy policy.
+
+## Your Rights
+- You can request access to, correction, or deletion of your data at any time by contacting us at [inquiries.strix@gmail.com](mailto:inquiries.strix@gmail.com)
+- You can opt out of communications at any time
+
+## Children's Privacy
+- Our app is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+
+## Changes to This Policy
+- We may update this Privacy Policy from time to time. Updates will be posted on this page.
+
+## Contact Us
+If you have questions about this Privacy Policy, please contact us at:
+- Email: [inquiries.strix@gmail.com](mailto:inquiries.strix@gmail.com)
 
 ---
+
+*This privacy policy is effective as of July 2025 and will remain in effect except with respect to any changes in its provisions in the future.* 
